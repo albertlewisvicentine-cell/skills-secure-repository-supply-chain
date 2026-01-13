@@ -4,3 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "every other week"
+  - package-ecosystem: "npm"
+    directory: "/code/src/AttendeeSite"
+    schedule:
+      interval: "daily"
