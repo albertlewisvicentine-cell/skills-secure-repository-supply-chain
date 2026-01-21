@@ -7,4 +7,4 @@ updates:
   - package-ecosystem: "npm"
     directory: "/code/src/AttendeeSite"
     schedule:
-      interval: "daily"
+      interval: "every other week"
